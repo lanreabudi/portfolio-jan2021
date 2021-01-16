@@ -1,6 +1,6 @@
 /* Global styles */
 body {
-    background-color: white;
+    
     font-family: 'Source Sans Pro', 'sans-serif';
     
 }
@@ -23,7 +23,9 @@ padding: 25px 25px;
 
 footer {
     background-color: #F6F6F6;
-    padding: 
+    padding: 35px 15px;
+    text-align: center;
+    font-weight: 700;
 }
 .photo {
     border-radius: 1000px;
